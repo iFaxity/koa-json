@@ -3,5 +3,18 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Christian Norrman <christian@faxity.se>",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "index.js",
+    "index.ts"
+  ],
+  "peerDependencies": {
+    "koa": "~2"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.0.49"
+  }
 }
