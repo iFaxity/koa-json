@@ -5,7 +5,7 @@
   "author": "Christian Norrman <christian@faxity.se>",
   "license": "MIT",
   "engines": {
-    "node": ">=6"
+    "node": ">=8"
   },
   "files": [
     "index.js",
